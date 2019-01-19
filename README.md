@@ -1,2 +1,2 @@
 # Development-of-a-Modular-Biopotential-Amplifier-Trainer-for-Biomedical-Instrumentation-Laboratory-Ex
-This Repository contains the Circuit design and simulation related to RTR module
+This Repository contains the Circuit design and simulation related to RTR module. If this repository be any help please refere to this paper "Development of a Modular Biopotential Amplifier Trainer for Biomedical Instrumentation Laboratory Experiments"(http://www.sciencepublishinggroup.com/journal/paperinfo?journalid=136&doi=10.11648/j.cssp.20180702.12)
